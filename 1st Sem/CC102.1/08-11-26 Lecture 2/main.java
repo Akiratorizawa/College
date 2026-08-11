@@ -21,6 +21,7 @@ public class main {
         System.out.println("My course is " + course);
         System.out.println("I am " + age + " years old.");
         System.out.println("My hobby is " + hobby + ".");
+        System.out.println("--------------------------------------------");
 
     }
 }
