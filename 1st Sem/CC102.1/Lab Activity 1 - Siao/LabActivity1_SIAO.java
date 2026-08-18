@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LabActivity1_Siao {
+public class LabActivity1_SIAO {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("============================================");
